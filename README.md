@@ -109,7 +109,7 @@ stock_pipeline_project/
     Open your web browser and go to: `http://localhost:8080`
 
     * **Username:** `admin`
-    * **Password:** `admin`
+    * **Password:** `**********`
 
 5.  **Trigger the DAG:**
     In the Airflow UI:
