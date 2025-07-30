@@ -17,8 +17,7 @@ All services are containerized using **Docker Compose**, ensuring a consistent, 
 - 🐳 **Containerized Environment**: Entire pipeline runs in **Docker** containers using Docker Compose.  
 - 📊 **Analysis-Ready Output**: Produces clean, structured, and feature-rich tables for downstream analytics.
 
----
-![Airflow Dag flow](Airflow Dag flow.png)
+![Airflow DAG Flow](Airflow Dag flow.png)
 
 ## 🧱 Architecture & Components
 
