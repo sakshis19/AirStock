@@ -18,7 +18,7 @@ All services are containerized using **Docker Compose**, ensuring a consistent, 
 - 📊 **Analysis-Ready Output**: Produces clean, structured, and feature-rich tables for downstream analytics.
 
 ---
-![Airflow UI ](Airflow Dag flow.png)
+![Airflow Dag flow](Airflow Dag flow.png)
 
 ## 🧱 Architecture & Components
 
